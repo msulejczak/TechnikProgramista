@@ -1,1 +1,1 @@
-https://msulejczak@github.com/msulejczak/TechnikProgramista.git/
+git remote set-url origin https://msulejczak@github.com/msulejczak/TechnikProgramista.git/
